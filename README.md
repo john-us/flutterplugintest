@@ -1,6 +1,6 @@
 # mycustomplugin
 
-A new flutter plugin project.
+A new flutter plugin project to show toast for android and ios apps.
 
 ## Getting Started
 
